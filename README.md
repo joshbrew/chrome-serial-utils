@@ -25,7 +25,7 @@ Comes with a default UI you can use to test by just calling the class with defau
 
 #### JS File serialExample.js:
 
-There is a finalCallback() function you can customize to pair the newly connected device with your UI upon successful connection.
+There is a finalCallback() function you can customize to update your UI upon successful connection.
 
 ```
 var serialMonitor = new chromeSerial(true,"serialmenu"); //Initialize with defaultUI set to true and the parent id to append it to as "serialmenu"
