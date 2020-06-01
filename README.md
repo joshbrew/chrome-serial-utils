@@ -8,7 +8,7 @@ Comes with a default UI you can use to test by just calling the class with defau
 
 - Generalized Chrome Serial class with default UI options (still improving the monitoring).
 - Save and open CSV files, set delimiters and headers
-- Modifiable callback for when data is received, so you can tailor it for your needs
+- Modifiable callbacks for when data is received or CSVs are opened, so you can tailor it for your needs
 
 ## Usage example:
 
