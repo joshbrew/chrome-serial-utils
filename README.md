@@ -4,10 +4,15 @@ Chrome Serial Utilities for Chrome Extensions, simple class you can call as an i
 
 Comes with a default UI you can use to test by just calling the class with default parameters for use in your chrome extension.
 
+#### Features
+
+- Generalized Chrome Serial class with default UI options (still improving the monitoring).
+- Save and open CSV files, set delimiters and headers
+- Modifiable callback for when data is received, so you can tailor it for your needs
+
 ## Usage example:
 
 #### HTML file serialExample.html:
-
 ```
 <!DOCTYPE html>
 <html>
